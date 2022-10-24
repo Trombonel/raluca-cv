@@ -1,0 +1,84 @@
+body {
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 5rem;
+    margin-top:50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #781C68;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #781C68;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+div {
+    background-color: #F9CEEE;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container { 
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+
+}
+    
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    color: #FCF8E8;
+} 
+
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top:50px;
+    color: #FCF8E8;
+}
+
+.raluca {
+    width: 20%;
+    border-radius: 5rem;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+
+.forest {
+    width: 30%;
+    margin: 50px auto 50px;
+}
+
+.agro {
+    border-radius: 100%;
+    width: 30%;
+}
+
+.flori {
+    width: 40%;
+    border-radius: 10%;
+    border-color: #781C68;
+    
